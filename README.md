@@ -10,6 +10,5 @@ This project focuses on loading, cleaning, and analyzing a retail sales dataset.
 - [Customer and Product Analysis](#customer-and-product-analysis)
 - [Visualization](#visualization)
 - [Recommendations](#recommendations)
-- [License](#license)
 
 
